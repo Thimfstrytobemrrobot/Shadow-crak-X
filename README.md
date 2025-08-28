@@ -45,3 +45,8 @@ and testing password security concepts**.
   consequences, including **civil and criminal liability**.  
 - By using this tool, you explicitly agree that the **developer(s) are not liable**
   for any direct, indirect, incidental, or criminal outcomes resulting from misuse.
+
+  HOW TO USE
+
+- in login screen (roblox.com/login) press f12 then paste the code in dev console, hit enter and add info to it
+- REMEMBER TO ENTER YOUR TARGET USERNAME DUMBASS
